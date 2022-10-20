@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kh58uUKbWRPkvDc8RrgQ+I3dKNBDOuLZWppsqqaGJKjcHcpDdBzWFd+Cl6s6O80JI9ef1ldJfOIdWOW2QqQtpg==",
+  "success": true,
+  "projectFilePath": "D:\\2.Study\\5.My Projects\\1.Secure_Twitter_Webhook_API\\TwitterWebhook\\TwitterWebhook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Fc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Fc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Fc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Fc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Fc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
