@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MSz0zxtWy3TxV1W2SWiqIu4J9ZzPf3yFHLEETsEEscM=",
+  "Source": "TwitterWebhook",
+  "BasePath": "_content/TwitterWebhook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
